@@ -2,7 +2,7 @@
 
 > Status do projeto: em desenvolvimento.
 
-Para rodar esse projeto em sua máquina, por favor digite:
+Para rodar esse projeto em sua máquina, por obséquio digite:
 
 ```
 npm install vs code
